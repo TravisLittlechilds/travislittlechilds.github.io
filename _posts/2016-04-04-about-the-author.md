@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Ravens"
+author: "Travis Littlechilds"
 categories: facts
-tags: [sample]
-image: cuba-2.jpg
+tags: [tattoo]
+image: ravens.jpeg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+This was my first Tattoo, by an artist called [Noon](https://www.instagram.com/noonkamikaz/), and was also the first transatlantic trip for a specific artist. I was living in Saskatoon temporarily after moving back after 3 years in London, and had to travel back to London to have it done. It was an 11 month wait from requesting a spot until I was able to have a booking.
