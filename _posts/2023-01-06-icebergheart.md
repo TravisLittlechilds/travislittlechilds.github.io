@@ -4,6 +4,6 @@ title: "Iceberg Heart"
 author: "Travis Littlechilds"
 categories: tattoos
 tags: [tattoo]
-image: icebergheart.jpeg
+image: icebergheart.jpg
 
 ---
