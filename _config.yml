@@ -13,6 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Tattoos of mine"
 description:	       "Tattoos and the places I've had them done"
 author:              "Travis Littlechilds"
+hide_related_posts:  true
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
